@@ -3,7 +3,7 @@
 One page personal de **Marilud Uribe Prada**, Desarrolladora Junior en formación.
 Sitio estático (HTML + CSS + JS vanilla), responsive y desplegado en GitHub Pages.
 
-**Demo:** https://marilud10.github.io/Portafolio-Web---Marilud-Uribe/
+
 
 ## Estructura
 ├── index.html
